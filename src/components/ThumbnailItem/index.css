@@ -1,0 +1,17 @@
+.img {
+  height: 40px;
+  width: 40px;
+}
+
+.list-card {
+  margin: 4px;
+}
+
+.list-button {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.active {
+  opacity: 0.5;
+}
